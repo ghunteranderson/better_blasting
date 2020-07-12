@@ -92,4 +92,4 @@ These furnace products were intentionally left out of the Better Blasting data p
 | <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/5/5a/Charcoal_JE3_BE3.png" alt="Charcoal" height="32" /> | Charcoal |
 
 ### Legal Stuff
-Better Blasting is NOT an official Minecraft data pack and is not approved by or associated with Mojang. The images used in this README.md are copyright Mojang Studios. The source code and distributions of it are licensed under the MIT license included in LICENSE.md.
+Better Blasting is NOT an official Minecraft data pack and is not approved by or associated with Mojang. The images used in this README.md are copyright Mojang Studios. The source code and distributions of it are licensed under the MIT license included in the file `LICENSE`.
