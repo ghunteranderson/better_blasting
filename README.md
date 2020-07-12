@@ -1,5 +1,5 @@
 # Better Blasting
-A Minecraft datapack that extends blast furnace recipes to smelt all minerals
+A Minecraft data pack that extends blast furnace recipes to smelt all minerals
 that a regular furnace can smelt. Experience drops per item do not change between
 the regular furnace and blast furnace however, items smelt twice as fast
 (consuming twice the fuel).
@@ -10,10 +10,17 @@ work but have not been officially tested.
 
 | Better Blasting | Minecraft |
 |:-------------:|:-------------:|
-| 1.0.0 | 1.16 and above |
+| 1.0.0 | 1.16.1 |
+
+## Installation
+1. Jump on over to the latest [releases](https://github.com/ghunteranderson/better_blasting/releases).
+2. Download the version of Better Blasting that you want.
+3. Follow the wiki's [instructions](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack) for installing data packs.
+
+If you have any issues/suggestions, feel free to open a Github issue.
 
 
-# Recipes Added
+## Recipes Added
 | | Product | | Ingredient |
 |-|---------|-|------------|
 | <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/1/15/Glass.png" alt="Glass" height="32" /> | Glass | <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b0/Sand_JE5_BE2.png" alt="Sand" height="32" /> | Sand |
@@ -46,7 +53,7 @@ work but have not been officially tested.
 | <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/2/29/Yellow_Glazed_Terracotta.png?version=d9043d4a5d1da60fd746b935f64dfc83" alt="Yellow Glazed Terracotta" height="32" /> | Yellow Glazed Terracotta | <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/f/f9/Yellow_Terracotta_JE1_BE1.png" alt="Yellow Terracotta" height="32" /> | Yellow Terracotta |
 
 
-# Already Available
+## Already Available
 These recipes are already available in Minecraft without Better Blasting.
 | | Product | | Ingredient |
 |-|---------|-|------------|
@@ -64,8 +71,8 @@ These recipes are already available in Minecraft without Better Blasting.
 
 
 
-# Will Not Implement
-These furnace products were intentionally left out of the Better Blasting datapack.
+## Will Not Implement
+These furnace products were intentionally left out of the Better Blasting data pack.
 
 | | Product |
 |-|-|
