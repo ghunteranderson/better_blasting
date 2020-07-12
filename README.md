@@ -1,26 +1,26 @@
-# Better Blasting
+# Better Blasting Data Pack
 A Minecraft data pack that extends blast furnace recipes to smelt all minerals
 that a regular furnace can smelt. Experience drops per item do not change between
 the regular furnace and blast furnace however, items smelt twice as fast
 (consuming twice the fuel).
 
 ## Version Support
-Minecraft versions listed below are tested and work. Versions not listed might
-work but have not been officially tested.
+Minecraft versions below are tested and work. Versions not listed might
+work but have not been tested.
 
 | Better Blasting | Minecraft |
 |:-------------:|:-------------:|
 | 1.0.0 | 1.16.1 |
 
 ## Installation
-1. Jump on over to the latest [releases](https://github.com/ghunteranderson/better_blasting/releases).
+1. Check out out the latest [releases](https://github.com/ghunteranderson/better_blasting/releases).
 2. Download the version of Better Blasting that you want.
 3. Follow the wiki's [instructions](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack) for installing data packs.
 
 If you have any issues/suggestions, feel free to open a Github issue.
 
 
-## Recipes Added
+## Blast Furnace Recipes Added
 | | Product | | Ingredient |
 |-|---------|-|------------|
 | <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/1/15/Glass.png" alt="Glass" height="32" /> | Glass | <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/b/b0/Sand_JE5_BE2.png" alt="Sand" height="32" /> | Sand |
@@ -72,7 +72,7 @@ These recipes are already available in Minecraft without Better Blasting.
 
 
 ## Will Not Implement
-These furnace products were intentionally left out of the Better Blasting data pack.
+These furnace products were intentionally left out of the Better Blasting data pack. While adding them is possible, I do not believe doing so improves the quality of Minecraft. Many of these items can be smelted faster in a smoker while others are to much of a stretch for a blast furance (e.g. putting cactus in a blast furnace would yield soot, not green dye).
 
 | | Product |
 |-|-|
@@ -91,3 +91,5 @@ These furnace products were intentionally left out of the Better Blasting data p
 | <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/thumb/2/2a/Dried_Kelp_JE1.png/150px-Dried_Kelp_JE1.png" alt="Dried Kelp" height="32" /> | Dried Kelp |
 | <img src="https://gamepedia.cursecdn.com/minecraft_gamepedia/5/5a/Charcoal_JE3_BE3.png" alt="Charcoal" height="32" /> | Charcoal |
 
+### Legal Stuff
+Better Blasting is NOT an official Minecraft data pack and is not approved by or associated with Mojang. The images used in this README.md are copyright Mojang Studios. The source code and distributions of it are licensed under the MIT license included in LICENSE.md.
