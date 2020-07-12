@@ -13,7 +13,7 @@ work but have not been tested.
 | 1.0.0 | 1.16.1 |
 
 ## Installation
-1. Check out out the latest [releases](https://github.com/ghunteranderson/better_blasting/releases).
+1. Check out the latest [releases](https://github.com/ghunteranderson/better_blasting/releases).
 2. Download the version of Better Blasting that you want.
 3. Follow the wiki's [instructions](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack) for installing data packs.
 
